@@ -6,6 +6,7 @@ __pycache__/
 venv/
 .pytest_cache/
 .ruff_cache/
+.env
 
 # Gerados pelo pipeline (o campeão em models/champion/ É versionado)
 /data/processed
